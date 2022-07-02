@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varun-krishna-v
-- student @TCE
+- 👋 Student @TCE
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack development
 
